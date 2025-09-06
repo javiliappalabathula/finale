@@ -1,0 +1,70 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+    }
+    .resume {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #333;
+    }
+    hr {
+      border: 0;
+      height: 1px;
+      background: #ccc;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="resume">
+    <h1>John Doe</h1>
+    <p><strong>Email:</strong> johndoe@example.com | <strong>Phone:</strong> (123) 456-7890</p>
+    <p><strong>Address:</strong> 123 Main St, City, Country</p>
+
+    <hr>
+
+    <h2>Objective</h2>
+    <p>Seeking a challenging position in a reputable organization to expand and utilize my learning, skills, and knowledge.</p>
+
+    <h2>Education</h2>
+    <p><strong>Bachelor of Science in Computer Science</strong><br>
+    University Name, Graduation Year</p>
+
+    <h2>Experience</h2>
+    <p><strong>Software Developer</strong><br>
+    ABC Company, 2022 - Present</p>
+    <ul>
+      <li>Developed web applications using HTML, CSS, and JavaScript.</li>
+      <li>Collaborated with cross-functional teams.</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>Python, Java</li>
+      <li>Git & GitHub</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <p><strong>Portfolio Website</strong> - Built a personal portfolio website using HTML/CSS.</p>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>English (Fluent)</li>
+      <li>Spanish (Intermediate)</li>
+    </ul>
+  </div>
+</body>
+</html>
